@@ -1,0 +1,5 @@
+{
+    "description": "A shorter template to experiment with.",
+    "prompt_revision": "以下是我使用语音识别得到语音的最佳转录. 请尝试参考其他转录去修正它, 并输出正确的{hint}转录.\n\n### 最佳转录:\n{best}\n\n### 其他转录:\n{others}\n\n### 输出:\n",
+    "response_split": "### 输出:"    
+}
